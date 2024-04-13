@@ -1,0 +1,5 @@
+cryptography==41.0.4
+pyasn1_modules==0.3.0
+pyasn1==0.5.0
+python-jose==3.3.0
+pyserial==3.5
