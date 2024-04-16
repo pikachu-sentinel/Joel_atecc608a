@@ -1,5 +1,6 @@
-
-# USB OTP Security System
+# USB OTP Security System 🚀
+### Overview
+This project focuses on secure communication between a Windows driver and a hardware device using the CP2102N USB-UART bridge. The primary goals are to generate a 10-bit OTP (One-Time Password) based on date-time, hardware ID, and a private key, and to ensure secure boot and flash encryption. Additionally, the project involves time synchronization with NTP servers and verification of OTP passwords using a challenge-response model.
 
 1. **Project Overview**:
    - Provide a brief introduction to your project. Explain its purpose, key features, and any relevant context.
@@ -42,13 +43,3 @@
 10. **Final Notes and Acknowledgments**:
     - Conclude your README with any additional information, acknowledgments, or credits.
     - Encourage contributions, bug reports, and feedback from the community.
-
-Remember to format your README using Markdown syntax. You can use tools like [readme.so](https://readme.so/) or directly edit the README.md file in your GitHub repository¹². Good luck with your project! 🚀.
-
-Source: Conversation with Bing, 4/16/2024
-(1) readme.so. https://readme.so/.
-(2) Quickstart for repositories - GitHub Docs. https://docs.github.com/articles/create-a-repo.
-(3) Create a ReadMe File in Git: Free Git Tutorial - Noble Desktop. https://www.nobledesktop.com/learn/git/create-a-readme-file.
-(4) Managing your profile README - GitHub Docs. https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme.
-(5) How to write a perfect README for your GitHub project. https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2.
-(6) en.wikipedia.org. https://en.wikipedia.org/wiki/README.
